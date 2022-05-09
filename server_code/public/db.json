@@ -1,0 +1,35 @@
+[{
+  "id":1,
+  "game" :"Red Dead Redemption",
+  "developer" : "Rockstar Studios",
+  "genre": "Action- Adventure",
+  "rating":"4.7/5"
+  },
+  {
+  "id":2,
+  "game" :"Elden Ring",
+  "developer" : "FromSoftware Inc",
+  "genre": "Puzzle- Adventure",
+  "rating":"4.4/5"
+  },
+  {
+  "id":3,
+  "game" :"Hades",
+  "developer" : "Supergiant Games",
+  "genre": "Action-Fiction",
+  "rating":"4.6/5"
+  },
+  {
+  "id":4,
+  "game" :"Divinity: Original Sin",
+  "developer" : "Larian Studios",
+  "genre": "Action-Adventure",
+  "rating":"4.4/5"
+  },
+  {
+  "id":5,
+  "game" :"Final Fantasy",
+  "developer" : "Square Enix",
+  "genre": "Adventure-Action-Fantasy",
+  "rating":"4.2/5"
+  }]
